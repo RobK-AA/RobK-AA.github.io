@@ -487,6 +487,7 @@ xclip
 
 .section.wb {
     background-color: #ffffff;
+    padding-top: 0;
 }
 
 .section.lb {
@@ -547,6 +548,10 @@ xclip
     font-size: 18px;
     line-height: 33px;
     margin: 0;
+}
+
+.text-left1 {
+    margin-left: 10px;
 }
 
 .section-title h3 {
